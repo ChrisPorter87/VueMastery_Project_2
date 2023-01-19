@@ -2,6 +2,7 @@
   "name": "newsandbox",
   "version": "0.1.0",
   "description": "",
+  "homepage": "./", 
   "main": "server.js",
   "author": "Crutchfield",
   "license": "UNLICENSED",
