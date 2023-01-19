@@ -1,0 +1,43 @@
+{
+  "entrypoints": {
+    "appentry": {
+      "chunks": [
+        "appentry"
+      ],
+      "assets": [
+        "appentry.min.js",
+        "appentry.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "assets": [
+    {
+      "name": "appentry.min.js",
+      "size": 3159600,
+      "chunks": [
+        "appentry"
+      ],
+      "chunkNames": [
+        "appentry"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "appentry.js.map",
+      "size": 4576,
+      "chunks": [
+        "appentry"
+      ],
+      "chunkNames": [
+        "appentry"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ]
+}

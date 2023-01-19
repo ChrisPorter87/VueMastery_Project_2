@@ -1,0 +1,31 @@
+{
+  "name": "newsandbox",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Crutchfield",
+  "license": "UNLICENSED",
+  "scripts": {
+    "default": "npm install --color && gulp dev --color"
+  },
+  "dependencies": {
+    "@popperjs/core": "2.11.6",
+    "@types/bootstrap": "5.2.4",
+    "@types/lodash": "4.14.186",
+    "@vueuse/core": "^9.10.0",
+    "@vueuse/sound": "^2.0.0",
+    "axios": "^1.2.2",
+    "crutch-compiler": "https://devnodepackages.crutchfield.ad.crutchfield.com/crutch-compiler-0.13.0.tgz",
+    "crutch-vue": "https://devnodepackages.crutchfield.ad.crutchfield.com/crutch-vue-0.14.4.tgz",
+    "crutchstrap": "https://devnodepackages.crutchfield.ad.crutchfield.com/crutchstrap-0.20.0.tgz",
+    "del": "6.1.1",
+    "gulp": "4.0.2",
+    "gulp-shell": "0.8.0",
+    "lodash": "4.17.21",
+    "nodemon": "2.0.16",
+    "pinia": "^2.0.23",
+    "vue": "3.2.40",
+    "vue-router": "^4.1.5",
+    "vue-simple-alert": "^1.1.1"
+  }
+}
